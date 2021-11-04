@@ -4,6 +4,8 @@ Api node para a autenticação e envio de mensagens do Dowhile da rocketseat, de
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado na sua maquina o [Node.js](https://nodejs.org/en/). 
 
+### Rodando a api
+
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/MarianaBorges/nlwHeatNode.git>
